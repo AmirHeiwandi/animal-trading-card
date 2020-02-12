@@ -1,0 +1,35 @@
+.italics{
+    font-style: italic;
+}
+
+li span{
+    font-weight: bold;
+}
+
+.list {
+    list-style-type: none;
+    padding: 0;  
+}
+
+.container{
+    width:330px;
+    height: 572px;
+    border: gray solid 1px;
+    box-shadow: 5px 5px #c0c0c0; 
+}
+
+.box1{
+    border: gray solid 1px;
+    margin: 14px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.title{
+    margin: 14px;
+}
+
+.img{
+    margin-left: 14px;
+}
+
